@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Board" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAIAAAAAAAAAAAAAAAQAAgCAAAAA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cards" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAQAQAABAAAAAAIAAAAAAAABAAAAAgAAAA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CloseScreen" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAACAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CloseScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerPlayer" Collapsed="true">
+    <Position X="10.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComputerPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAQAgAAAAAAAAAAAAEAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameItems" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>GameItems.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScreen" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAIAAAAABAACIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HelpScreen" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelpScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoserScreen" Collapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>LoserScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScreen" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAgABAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalCard" Collapsed="true">
+    <Position X="8.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NormalCard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Screen" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAABAAAAAAIAwAAAgAEAAIAAAAQQAA=</HashCode>
+      <FileName>Screen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingletonTexture" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAYAEAAACKEgIxEAAAAACgCExqHQOIYA4whwDACAMQA=</HashCode>
+      <FileName>SingletonTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecialCard" Collapsed="true">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>SpecialCard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatusScreen" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StatusScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stick" Collapsed="true">
+    <Position X="15" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserPlayer" Collapsed="true">
+    <Position X="12.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>UserPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinerScreen" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>WinerScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type1Card" Collapsed="true">
+    <Position X="8.75" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="NormalCard" FixedToPoint="true">
+      <Path>
+        <Point X="9" Y="7.941" />
+        <Point X="9" Y="8.899" />
+        <Point X="9.375" Y="8.899" />
+        <Point X="9.375" Y="9.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Type1Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type2Card" Collapsed="true">
+    <Position X="10.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Type2Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type3Card" Collapsed="true">
+    <Position X="12.5" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="NormalCard" FixedToPoint="true">
+      <Path>
+        <Point X="9" Y="7.941" />
+        <Point X="9" Y="8.899" />
+        <Point X="14" Y="8.899" />
+        <Point X="14" Y="9.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type3Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type4Card" Collapsed="true">
+    <Position X="14.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAA=</HashCode>
+      <FileName>Type4Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type5Card" Collapsed="true">
+    <Position X="16" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type5Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type6Card" Collapsed="true">
+    <Position X="18" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="NormalCard">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="6.284" Y="11.328" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAAAA=</HashCode>
+      <FileName>Type6Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type7Card" Collapsed="true">
+    <Position X="20" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type7Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type8Card" Collapsed="true">
+    <Position X="21.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type8Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type9Card" Collapsed="true">
+    <Position X="23.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type9Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type10Card" Collapsed="true">
+    <Position X="25.75" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="NormalCard">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="10.99" Y="17.459" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type10Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type11Card" Collapsed="true">
+    <Position X="27.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type11Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type12Card" Collapsed="true">
+    <Position X="29.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type12Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type13Card" Collapsed="true">
+    <Position X="31" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type13Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type14Card" Collapsed="true">
+    <Position X="32.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type14Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type15Card" Collapsed="true">
+    <Position X="34.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Type15Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type16Card" Collapsed="true">
+    <Position X="36.5" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="NormalCard" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="9" Y="7.941" />
+        <Point X="9" Y="8.899" />
+        <Point X="36.5" Y="8.899" />
+        <Point X="36.5" Y="9.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Type16Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type17Card" Collapsed="true">
+    <Position X="38.25" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="NormalCard">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="10.774" Y="17.287" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Type17Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type18Card" Collapsed="true">
+    <Position X="40" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="NormalCard" ManuallyRouted="true">
+      <Path>
+        <Point X="9" Y="7.941" />
+        <Point X="9" Y="8.899" />
+        <Point X="40.75" Y="8.899" />
+        <Point X="40.75" Y="9.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type18Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOutCard" Collapsed="true">
+    <Position X="5.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SOutCard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SInCard" Collapsed="true">
+    <Position X="3.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SInCard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SColorCard" Collapsed="true">
+    <Position X="7" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>SColorCard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="IMG" Collapsed="true">
+    <Position X="20" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hcIByEAAEIABACAAgECkMhAoBCoECgAQABEABQAAhQA=</HashCode>
+      <FileName>Macros.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
